@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" Plotting make target dependencies """
+""" Plotting make dependencies """
 
 __author__  = "Mani Amoozadeh"
 
