@@ -1,0 +1,5 @@
+
+.PHONY: targeta
+
+targeta:
+	@echo "Running targeta"
