@@ -6,12 +6,13 @@ You can invoke the script in two ways:
 
 1. Redirecting `make` output to a log file:
 
-    make -Bnd > make.log
-    graph.py make.log
+    `make -Bnd > make.log`
+
+    `graph.py make.log`
 
 2. Piping `make` output directly to the script:
 
-    make -Bnd | graph.py
+    `make -Bnd | graph.py`
 
 Example graph:
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" Plotting make dependencies """
+""" Dependency Graph from Make """
 
 __author__  = "Mani Amoozadeh"
 
