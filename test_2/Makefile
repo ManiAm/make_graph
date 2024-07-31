@@ -1,6 +1,4 @@
 
-# make -Bnd
-
 .PHONY: all target1
 all: target1 targeta
 

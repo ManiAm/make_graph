@@ -14,6 +14,6 @@ You can invoke the script in two ways:
 
     `make -Bnd | graph.py`
 
-Example graph:
+Example graph for [this](test_3/Makefile) Makefile.
 
 ![example.png](example.png)
